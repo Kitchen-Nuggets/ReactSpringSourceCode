@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "http://localhost:9090/react-front-end/static/css/main.073c9b0a.css",
+    "main.js": "http://localhost:9090/react-front-end/static/js/main.0bffe8fb.js",
+    "static/js/787.42a359b6.chunk.js": "http://localhost:9090/react-front-end/static/js/787.42a359b6.chunk.js",
+    "static/media/menu.png": "http://localhost:9090/react-front-end/static/media/menu.9c69b1b99cb456d2adeb.png",
+    "static/media/header-img.png": "http://localhost:9090/react-front-end/static/media/header-img.855c879f9c9acc77fa04.png",
+    "static/media/logo.svg": "http://localhost:9090/react-front-end/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "http://localhost:9090/react-front-end/index.html",
+    "main.073c9b0a.css.map": "http://localhost:9090/react-front-end/static/css/main.073c9b0a.css.map",
+    "main.0bffe8fb.js.map": "http://localhost:9090/react-front-end/static/js/main.0bffe8fb.js.map",
+    "787.42a359b6.chunk.js.map": "http://localhost:9090/react-front-end/static/js/787.42a359b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0bffe8fb.js"
+  ]
+}
